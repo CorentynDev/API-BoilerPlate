@@ -1,5 +1,5 @@
 const BaseController = require('./baseController');
-const UserService = require('../services/userService');
+const UserService = require('../services/exampleService');
 
 /**
  * Contrôleur pour les utilisateurs.
